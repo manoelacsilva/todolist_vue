@@ -16,7 +16,7 @@
             </label>
         </li>
     </ul>
-    <h4 v-else>Não há tarefas pendentes.</h4>
+    <h4 v-else>Não há tarefas referentes a este campo.</h4>
 </template>
 
 <style scoped>
